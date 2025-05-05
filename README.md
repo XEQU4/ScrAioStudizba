@@ -6,6 +6,8 @@
 ![Tooling](https://img.shields.io/badge/Tool-uv-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+**📄 This README is also available in [Russian](./README.ru.md)**
+
 🧠 An asynchronous web scraper for collecting university teacher profiles from [studizba.com](https://studizba.com), exporting them to Excel and organizing photos in a structured format.
 
 Originally built as a freelance project to deliver a full dataset to a client. Now restructured for portfolio demonstration and public reference.
